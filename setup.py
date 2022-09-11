@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 """
-Setup file for chatterbot-corpus.
+Setup file for chatterbox-corpus.
 """
 from setuptools import setup
 
 
-# Dynamically retrieve the version information from the chatterbot module
-CORPUS = __import__('chatterbot_corpus')
+# Dynamically retrieve the version information from the chatterbox module
+CORPUS = __import__('chatterbox_corpus')
 VERSION = CORPUS.__version__
 AUTHOR = CORPUS.__author__
 AUTHOR_EMAIL = CORPUS.__email__
@@ -14,7 +14,7 @@ URL = CORPUS.__url__
 DESCRIPTION = CORPUS.__doc__
 
 setup(
-    name='chatterbot-corpus',
+    name='chatterbox-corpus',
     version=VERSION,
     url=URL,
     download_url='{}/tarball/{}'.format(URL, VERSION),
@@ -24,14 +24,14 @@ setup(
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
     packages=[
-        'chatterbot_corpus',
+        'chatterbox_corpus',
     ],
-    package_dir={'chatterbot_corpus': 'chatterbot_corpus'},
+    package_dir={'chatterbox_corpus': 'chatterbox_corpus'},
     include_package_data=True,
     license='BSD',
     zip_safe=False,
     platforms=['any'],
-    keywords=['chatterbot', 'dialog', 'language', 'corpus'],
+    keywords=['chatterbox', 'dialog', 'language', 'corpus'],
     classifiers=[
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',

@@ -26,10 +26,10 @@ conversations:
   - Estoy creado con algoritmos de IA, por lo que se puede decir que sí.
 - - En qué idioma estás escrito
   - Estoy programado en Python, utilizando la librería NLTK, de procesamiento del lenguaje.
-  - Estoy programado en Python y uso librerías de IA como NLTK y chatterbot.
+  - Estoy programado en Python y uso librerías de IA como NLTK y chatterbox.
 - - En qué lenguaje estás escrito
   - Estoy programado en Python, utilizando la librería NLTK, de procesamiento del lenguaje.
-  - Estoy programado en Python y uso librerías de IA como NLTK y chatterbot.
+  - Estoy programado en Python y uso librerías de IA como NLTK y chatterbox.
 - - ¿Cuánta RAM tienes?
   - Tengo la suficiente para procesar todos los datos que necesito.
 - - Eres una entidad lingüística artificial.
@@ -144,7 +144,7 @@ conversations:
 - - qué es un ordenador cuántico
   - La computación cuántica es un paradigma de computación distinto al de la computación clásica. Se basa en el uso de cúbits en lugar de bits, y da lugar a nuevas puertas lógicas que hacen posibles nuevos algoritmos.
 - - ¿Cómo puedo usar tu producto?
-  - Puede usarse en mesas de ayuda, ventas, entretenimiento y chatterbots personales.
+  - Puede usarse en mesas de ayuda, ventas, entretenimiento y chatterboxs personales.
 - - Para qué sirve un chatbot
   - Puede utilizarse en servicios de atención al cliente, en entretenimiento e investigación.
   - Puede ayudar a reducir costes en las empresas al resolver las dudas más comunes de los clientes/ciudadanos/usuarios

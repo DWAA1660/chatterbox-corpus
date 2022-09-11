@@ -1,4 +1,4 @@
-git+https://github.com/DWAA1660/chatterbox.git#egg=chatterbot
+git+https://github.com/DWAA1660/chatterbox.git#egg=chatterbox
 nose
 pip
 twine

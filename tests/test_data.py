@@ -2,10 +2,10 @@ import os
 import sys
 import inspect
 from unittest import TestCase
-from chatterbot import corpus
-from chatterbot import languages
-from chatterbot.constants import STATEMENT_TEXT_MAX_LENGTH
-from chatterbot_corpus.corpus import DATA_DIRECTORY
+from chatterbox import corpus
+from chatterbox import languages
+from chatterbox.constants import STATEMENT_TEXT_MAX_LENGTH
+from chatterbox_corpus.corpus import DATA_DIRECTORY
 
 
 
@@ -19,7 +19,7 @@ class CorpusUtilsTestCase(TestCase):
         """
         Test that no line in the corpus exceeds the maximum number of characters.
         """
-        files = corpus.list_corpus_files('chatterbot_corpus')
+        files = corpus.list_corpus_files('chatterbox_corpus')
 
         for dialog_corpus, _categories, _file_path in corpus.load_corpus(*files):
             for conversation in dialog_corpus:
@@ -33,7 +33,7 @@ class CorpusUtilsTestCase(TestCase):
                         )
 
     def test_conversation_format(self):
-        files = corpus.list_corpus_files('chatterbot_corpus')
+        files = corpus.list_corpus_files('chatterbox_corpus')
 
         for dialog_corpus, _categories, _file_path in corpus.load_corpus(*files):
             for conversation in dialog_corpus:

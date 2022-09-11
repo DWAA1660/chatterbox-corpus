@@ -1,4 +1,4 @@
-.. chatterbot-corpus documentation master file, created by
+.. chatterbox-corpus documentation master file, created by
    sphinx-quickstart on Wed Aug 16 23:03:03 2017.
 
 ChatterBox Corpus Documentation
@@ -17,7 +17,7 @@ Using the ChatterBox Corpus with ChatterBox
 +++++++++++++++++++++++++++++++++++++++++++
 
 If you are looking for information on how to
-use the ``chatterbot-corpus`` module with your
+use the ``chatterbox-corpus`` module with your
 chat bot build with ChatterBox, then you will
 want to take a look at the `ChatterBox Documentation`_
 
@@ -28,4 +28,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-.. _ChatterBox Documentation: http://chatterbot.readthedocs.io/en/latest/corpus.html
+.. _ChatterBox Documentation: http://chatterbox.readthedocs.io/en/latest/corpus.html

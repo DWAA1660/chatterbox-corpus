@@ -1,4 +1,4 @@
-# chatterbot-corpus documentation build configuration file, created by
+# chatterbox-corpus documentation build configuration file, created by
 # sphinx-quickstart on Wed Aug 16 23:03:03 2017.
 
 import os
@@ -28,7 +28,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'chatterbot-corpus'
+project = 'chatterbox-corpus'
 copyright = '2017, Gunther Cox'
 author = 'Gunther Cox'
 
@@ -95,7 +95,7 @@ html_sidebars = {
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'chatterbot-corpusdoc'
+htmlhelp_basename = 'chatterbox-corpusdoc'
 
 html_context = {
     'extra_css_files': [
@@ -127,7 +127,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'chatterbot-corpus.tex', 'chatterbot-corpus Documentation',
+    (master_doc, 'chatterbox-corpus.tex', 'chatterbox-corpus Documentation',
      'Gunther Cox', 'manual'),
 ]
 
@@ -137,7 +137,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'chatterbot-corpus', 'chatterbot-corpus Documentation',
+    (master_doc, 'chatterbox-corpus', 'chatterbox-corpus Documentation',
      [author], 1)
 ]
 
@@ -148,8 +148,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'chatterbot-corpus', 'chatterbot-corpus Documentation',
-     author, 'chatterbot-corpus', 'One line description of project.',
+    (master_doc, 'chatterbox-corpus', 'chatterbox-corpus Documentation',
+     author, 'chatterbox-corpus', 'One line description of project.',
      'Miscellaneous'),
 ]
 
