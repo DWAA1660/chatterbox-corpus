@@ -1,7 +1,7 @@
 Data Format
 ===========
 
-The data file contained in ChatterBot Corpus is formatted using `YAML`_ syntax.
+The data file contained in ChatterBox Corpus is formatted using `YAML`_ syntax.
 This format is used because it is easily readable by both humans and machines.
 
 .. list-table:: Corpus Properties

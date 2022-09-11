@@ -1,10 +1,10 @@
-# ChatterBot Language Training Corpus
+# ChatterBox Language Training Corpus
 
 [![Package Version](https://img.shields.io/pypi/v/chatterbot-corpus.svg)](https://pypi.python.org/pypi/chatterbot-corpus/)
 [![Build Status](https://travis-ci.org/gunthercox/chatterbot-corpus.svg?branch=master)](https://travis-ci.org/gunthercox/chatterbot-corpus)
 
-These modules are used to quickly train ChatterBot to respond to various inputs in different languages.
-Although much of ChatterBot is designed to be language independent, it is still useful to have these
+These modules are used to quickly train ChatterBox to respond to various inputs in different languages.
+Although much of ChatterBox is designed to be language independent, it is still useful to have these
 training sets available to prime a fresh database and make the variety of responses that a bot can yield
 much more diverse.
 

@@ -1,10 +1,10 @@
 .. chatterbot-corpus documentation master file, created by
    sphinx-quickstart on Wed Aug 16 23:03:03 2017.
 
-ChatterBot Corpus Documentation
+ChatterBox Corpus Documentation
 ===============================
 
-The ChatterBot Corpus is a project containing user-contributed
+The ChatterBox Corpus is a project containing user-contributed
 dialog data that can be used to train chat bots to communicate.
 
 .. toctree::
@@ -13,13 +13,13 @@ dialog data that can be used to train chat bots to communicate.
 
    data
 
-Using the ChatterBot Corpus with ChatterBot
+Using the ChatterBox Corpus with ChatterBox
 +++++++++++++++++++++++++++++++++++++++++++
 
 If you are looking for information on how to
 use the ``chatterbot-corpus`` module with your
-chat bot build with ChatterBot, then you will
-want to take a look at the `ChatterBot Documentation`_
+chat bot build with ChatterBox, then you will
+want to take a look at the `ChatterBox Documentation`_
 
 Indices and tables
 ==================
@@ -28,4 +28,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-.. _ChatterBot Documentation: http://chatterbot.readthedocs.io/en/latest/corpus.html
+.. _ChatterBox Documentation: http://chatterbot.readthedocs.io/en/latest/corpus.html
